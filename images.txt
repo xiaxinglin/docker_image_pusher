@@ -1,3 +1,1 @@
-apecloud/kubeblocks:0.9.3
-apecloud/kubeblocks-tools:0.9.3
-apecloud/kubeblocks-dataprotection:0.9.3
+apecloud/spilo:14.8.0-pgvector-v0.6.1
