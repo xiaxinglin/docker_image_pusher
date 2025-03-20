@@ -1,2 +1,1 @@
-apecloud/spilo:14.8.0-pgvector-v0.6.1
-docker.io/apecloud/pgbouncer:1.19.0
+bitnami/kafka:3.3.2-debian-11-r54
