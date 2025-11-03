@@ -1,1 +1,2 @@
 bitnami/kafka:3.3.2-debian-11-r54
+clickhouse:lts
