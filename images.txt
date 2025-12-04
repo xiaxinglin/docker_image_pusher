@@ -1,4 +1,1 @@
-openmetadata/server:1.10.12
-openmetadata/ingestion:1.10.12
-openmetadata/postgresql:1.10.12
-elasticsearch/elasticsearch:8.11.4
+elasticsearch:8.11.4
